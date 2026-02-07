@@ -35,7 +35,7 @@ const Quiz = () => {
       }
       const newIndex = index + 1;
       setIndex(newIndex);
-      setQuestion(data[index]);
+      setQuestion(data[newIndex]);
       setLock(false);
       option_array.forEach((option)=>{
         option.current.classList.remove("Wrong");
