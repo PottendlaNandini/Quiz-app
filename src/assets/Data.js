@@ -1,0 +1,42 @@
+export const data=[
+  {
+    question:"which is you favorite subject",
+    option1:"maths",
+    option2:"physics",
+    option3:"chemistry",
+    option4:"science",
+    ans:1,
+  },
+  {
+    question:"which is you favorite subject",
+    option1:"maths",
+    option2:"physics",
+    option3:"chemistry",
+    option4:"science",
+    ans:3,
+  },
+  {
+    question:"which is you favorite subject",
+    option1:"maths",
+    option2:"physics",
+    option3:"chemistry",
+    option4:"science",
+    ans:1,
+  },
+  {
+    question:"which is you favorite subject",
+    option1:"maths",
+    option2:"physics",
+    option3:"chemistry",
+    option4:"science",
+    ans:2,
+  },
+  {
+    question:"which is you favorite subject",
+    option1:"maths",
+    option2:"physics",
+    option3:"chemistry",
+    option4:"science",
+    ans:4,
+  },
+];
